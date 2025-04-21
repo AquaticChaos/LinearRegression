@@ -1,7 +1,11 @@
 ## LinearRegression
 This linear regression model was built in Python via Jupyter, though is also tested and compatible with Google Colab.
-The program takes an external .csv files of hundreds of automobiles, and attempts to predict the miles per gallon based on its horsepower and manufacturing year.
-It will also calculate the P-value, R squared value, slope and intercept, and then graph the points.
+
+## Features
+- Takes an external .csv file of automobiles
+- Predicts the miles per gallon based on horsepower and manufacturing year
+- Calculates P-value, R squared value, slope, and intercept.
+- Plots points on a graph with a trend line.
 
 ## Setup
 1. Download both the .ipynb and .csv files.
